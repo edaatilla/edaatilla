@@ -16,7 +16,7 @@
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;Hakkımda
-Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yazılım dünyasına, algoritmik düşünceye ve teknolojiye büyük bir ilgi duyuyorum. Özellikle Java, C ve modern programlama pratikleri üzerine kendimi geliştirmeye odaklanmış durumdayım.
+Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yazılım dünyasına, algoritmik düşünceye ve teknolojiye büyük bir ilgi duyuyorum. Özellikle Java, C ve modern programlama pratikleri üzerine kendimi geliştirmeye odaklanmış durumdayım. Ayrıca **C1 seviyesinde İngilizce** biliyorum, bu sayede küresel kaynakları ve dokümantasyonları yakından takip edebiliyorum.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -26,6 +26,7 @@ Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yaz
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![English](https://img.shields.io/badge/English-C1-4CAF50?style=for-the-badge&logo=google-translate&logoColor=white)
 
 </div>
 
@@ -45,17 +46,3 @@ Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yaz
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
-<!--
-**edaatilla/edaatilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
