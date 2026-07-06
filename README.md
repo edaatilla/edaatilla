@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=4285F4&center=true&vCenter=true&width=600&lines=Kodlamayı+seviyorum;Yeni+teknolojiler+öğreniyorum;Süleyman+Demirel+Üniversitesi+Öğrencisi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=4285F4&center=true&vCenter=true&width=600&lines=Kodlamay%C4%B1%20seviyorum;Yeni%20teknolojiler%20%C3%B6%C4%9Freniyorum;S%C3%BCleyman%20Demirel%20%C3%9Cniversitesi%20%C3%96%C4%9Frencisi" />
 </div>
 
 <br>
