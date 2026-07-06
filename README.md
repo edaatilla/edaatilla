@@ -19,3 +19,13 @@
 
 ## :technologist: Hakkımda
 Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yazılım dünyasına büyük bir ilgi duyuyorum. Özellikle Java, C ve Python dilleriyle projeler geliştiriyorum. Ayrıca **C1 seviyesinde İngilizce** biliyorum.
+
+## :wrench: Yetenekler
+- Java
+- C
+- Python
+- İngilizce (C1)
+
+## :bar_chart: GitHub İstatistikleri
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=edaatilla&show_icons=true&theme=tokyonight&hide_border=true)
