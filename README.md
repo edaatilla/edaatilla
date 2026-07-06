@@ -27,10 +27,5 @@ Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yaz
 - İngilizce (C1)
 
 ## :bar_chart: GitHub İstatistikleri
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaatilla&show_icons=true&theme=default&hide_border=true" />
-</div>
-### :bar_chart: GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaatilla&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="İstatistikler" />
-</p>
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=edaatilla&show_icons=true&theme=tokyonight&hide_border=true)
