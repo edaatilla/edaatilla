@@ -18,7 +18,7 @@
 <br>
 
 ## :technologist: Hakkımda
-Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yazılım dünyasına büyük bir ilgi duyuyorum. Özellikle Java, C ve Python dilleriyle projeler geliştiriyorum. Ayrıca **C1 seviyesinde İngilizce** biliyorum.
+Merhaba! Ben Eda. Süleyman Demirel Üniversitesi'nde öğrenim görüyorum. Yazılım dünyasına büyük bir ilgi duyuyorum. Özellikle Java, C ve Python dilleriyle projeler geliştiriyorum. 
 
 ## :wrench: Yetenekler
 - Java
